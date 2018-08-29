@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Things on Russell Ijaya</title>
-    <link>http://www.example.com/things/</link>
+    <link>https://r-u-s-s-e-l-l.github.io/things/</link>
     <description>Recent content in Things on Russell Ijaya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 12 Dec 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.example.com/things/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://r-u-s-s-e-l-l.github.io/things/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Self</title>
-      <link>http://www.example.com/things/self/</link>
+      <link>https://r-u-s-s-e-l-l.github.io/things/self/</link>
       <pubDate>Tue, 12 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/things/self/</guid>
+      <guid>https://r-u-s-s-e-l-l.github.io/things/self/</guid>
       <description>Experimentation with the idea of self - Shadows, thoughts &amp;amp; change.</description>
     </item>
     
     <item>
       <title>A Friday</title>
-      <link>http://www.example.com/things/afriday/</link>
+      <link>https://r-u-s-s-e-l-l.github.io/things/afriday/</link>
       <pubDate>Fri, 01 Dec 2017 00:25:00 -0400</pubDate>
       
-      <guid>http://www.example.com/things/afriday/</guid>
+      <guid>https://r-u-s-s-e-l-l.github.io/things/afriday/</guid>
       <description>just a little something.
   </description>
     </item>
     
     <item>
       <title>Colour</title>
-      <link>http://www.example.com/things/schematics/</link>
+      <link>https://r-u-s-s-e-l-l.github.io/things/schematics/</link>
       <pubDate>Wed, 25 Oct 2017 23:42:30 -0400</pubDate>
       
-      <guid>http://www.example.com/things/schematics/</guid>
+      <guid>https://r-u-s-s-e-l-l.github.io/things/schematics/</guid>
       <description>Playing around with mattes.</description>
     </item>
     
