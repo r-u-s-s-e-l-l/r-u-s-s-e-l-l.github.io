@@ -1,0 +1,19 @@
+.biopicture{
+  opacity: 0.8;
+  max-width: 20%;
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 750px)
+{
+  .biopicture{
+    max-width: 30%;
+  }
+}
+
+@media screen and (max-width: 480px)
+{
+  .biopicture{
+    max-width: 40%;
+  }
+}

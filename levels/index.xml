@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Levels on Russell Ijaya</title>
+    <link>http://www.example.com/levels/</link>
+    <description>Recent content in Levels on Russell Ijaya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 15 Aug 2018 12:55:49 -0400</lastBuildDate>
+    
+	<atom:link href="http://www.example.com/levels/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First</title>
+      <link>http://www.example.com/levels/first/</link>
+      <pubDate>Wed, 15 Aug 2018 12:55:49 -0400</pubDate>
+      
+      <guid>http://www.example.com/levels/first/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

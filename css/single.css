@@ -1,0 +1,49 @@
+.imagerow {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+/* Create four equal columns that sits next to each other */
+.singlecolumn {
+  flex: 33%;
+  max-width: 33%;
+  padding: 0 4px;
+}
+
+.singlecolumn img {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 100%;
+  height: auto;
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 600px) {
+  .singlecolumn {
+    flex: 100%;
+    max-width: 100%;
+  }
+}
+
+.content{
+  font-family: 'Zwizz_Regular', serif;
+}
+
+p{
+  text-indent: 2em;
+}
+
+
+
+.onecolumnonly
+{
+  flex: 80%;
+  max-width: 80%;
+  margin: 0 auto;
+}
+
+.imagerowspecial{
+  display: flex;
+  flex-wrap: wrap;
+}
