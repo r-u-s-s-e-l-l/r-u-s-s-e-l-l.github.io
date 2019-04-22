@@ -1,0 +1,80 @@
+body {
+  overflow: hidden;
+}
+
+@font-face {
+  font-family: 'Zwizz_Regular';
+  src: url(fonts/Zwizz-Regular.woff2);
+}
+
+/* Preloader */
+
+#preloader {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #fff;
+  /* change if the mask should have another color then white */
+  z-index: 99;
+  /* makes sure it stays on top */
+}
+
+#status {
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: -100px 0 0 -100px;
+}
+.precontainer {
+  height: 100vh;
+  width: 100vw;
+}
+
+.loader {
+  height: 20px;
+  width: 250px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: center;
+}
+
+.loader--text {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  /* bring your own prefixes */
+  transform: translate(-50%, -50%);
+}
+.loader--text:after {
+  content: "Loading";
+  font-family: 'Zwizz_Regular', serif;
+  font-weight: bold;
+  animation-name: loading-text;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+}
+
+
+@keyframes loading-text {
+  0% {
+    content: "Loading";
+  }
+  25% {
+    content: "Loading.";
+  }
+  40% {
+    content: "Loading..";
+  }
+  65% {
+    content: "Loading...";
+  }
+}
