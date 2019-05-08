@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://russellijaya.com/visuals/adventures/3-ap20/hockleyvalley/</loc>
+    <lastmod>2019-05-08T15:00:26-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://russellijaya.com/visuals/portfolio/</loc>
     <lastmod>2019-05-06T00:30:24-04:00</lastmod>
   </url>
@@ -28,6 +33,16 @@
   </url>
   
   <url>
+    <loc>https://russellijaya.com/visuals/adventures/3-ap20/</loc>
+    <lastmod>2019-05-08T15:05:22-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://russellijaya.com/visuals/adventures/3-ap20/hiltonfalls/</loc>
+    <lastmod>2019-05-08T14:59:47-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://russellijaya.com/visuals/adventures/4-tolightfestival/2-2019/</loc>
     <lastmod>2019-02-03T16:05:15-05:00</lastmod>
   </url>
@@ -45,6 +60,11 @@
   <url>
     <loc>https://russellijaya.com/visuals/adventures/1-ap19/</loc>
     <lastmod>2018-08-15T12:55:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://russellijaya.com/visuals/adventures/3-ap20/pretrip/</loc>
+    <lastmod>2019-05-08T15:00:37-04:00</lastmod>
   </url>
   
   <url>
@@ -195,7 +215,7 @@
   
   <url>
     <loc>https://russellijaya.com/</loc>
-    <lastmod>2019-05-06T00:30:24-04:00</lastmod>
+    <lastmod>2019-05-08T15:00:26-04:00</lastmod>
     <priority>0</priority>
   </url>
   
