@@ -1,20 +1,72 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>russell ijaya</title>
+    <title>Russell Ijaya</title>
     <link>https://russellijaya.com/</link>
-    <description>Recent content on russell ijaya</description>
+    <description>Recent content on Russell Ijaya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://russellijaya.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Nov 2021 16:35:02 -0500</lastBuildDate>
+    
+	<atom:link href="https://russellijaya.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
     <item>
-      <title>on a remarkably unremarkable change</title>
+      <title>On a remarkably unremarkable change</title>
       <link>https://russellijaya.com/post/on-a-remarkably-unremarkable-change/</link>
       <pubDate>Sat, 03 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://russellijaya.com/post/on-a-remarkably-unremarkable-change/</guid>
-      <description>Dusting off my camera has been a peculiar experience. Part of it is has been like riding a bike - all the dials and clicks still feel about right. A little awkward, but right. Part of it feels completely different, as if I am engaging in a different craft than that of a past life, one where I would greedily capture moments without a second care. Learning to film my current realities has made me painfully cognizant of the cycle my life (and perhaps most of the world) has drifted into.</description>
+      <description>&lt;p&gt;Dusting off my camera has been a peculiar experience. Part of it is has been like riding a bike - all the dials and clicks still feel about right. A little awkward, but right. Part of it feels completely different, as if I am engaging in a different craft than that of a past life, one where I  would greedily capture moments without a second care. Learning to film my current realities has made me painfully cognizant of the cycle my life (and perhaps most of the world) has drifted into. A monotonous interchanging between moments of work and wandering, those of painful stillness and ignorant action.&lt;/p&gt;
+&lt;p&gt;There is no sole perpetrator that has sent me adrift. Sure, a global pandemic, heartbreak and dashes of existential dread could be blamed, but they all ultimately fall under the umbrella that is living this very reality.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://russellijaya.com/img/1/DSC09357.jpg&#34; alt=&#34;picture of a lone bench&#34;&gt;&lt;/p&gt;
+&lt;p&gt;And so, I mourn the many causes of this frighteningly normal, reactionary pattern of living. I mourn the past selves that I can no longer bring out at will, the realities I once knew that now feel as fleeting as dreams. Perhaps I even mourn for my present reality, for it too will not last forever.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://russellijaya.com/img/1/DSC09369.jpg&#34; alt=&#34;picture of a sticker with fucked up writen on it&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Melancholic as this all sounds, this blunt introspection also yields fascination. There is nothing special about all these rambly thoughts, people change all the time, everywhere. It is quite simple - unremarkable, if you will. But that very fundamental phenomena is a small part of the grand scheme of things. And the minute intricacies of the latter is what keeps this life interesting, does it not?&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://russellijaya.com/img/1/DSC09365.jpg&#34; alt=&#34;picture of branches&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://russellijaya.com/img/1/DSC09377.jpg&#34; alt=&#34;picture of a lightpostt&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Perhaps I have learned that change is normal. That change, as intrusive of a force it is on our present selves, is also gently knit into the fabric of living. Perhaps I will change to one day be able to embrace change without mourning the past, without anxiously peaking at the future. Or perhaps I have learned nothing at all, and this is all just nonsense embeded in the chaos that is this brain of mine.&lt;/p&gt;
+&lt;p&gt;(un)Remarkable.&lt;/p&gt;
+</description>
     </item>
+    
+    
+    
+    <item>
+      <title>On hellos</title>
+      <link>https://russellijaya.com/post/on_hellos/</link>
+      <pubDate>Sat, 20 Nov 2021 16:35:02 -0500</pubDate>
+      
+      <guid>https://russellijaya.com/post/on_hellos/</guid>
+      <description></description>
+    </item>
+    
+    
+    
+    <item>
+      <title>On content</title>
+      <link>https://russellijaya.com/post/content/</link>
+      <pubDate>Sat, 20 Nov 2021 16:34:44 -0500</pubDate>
+      
+      <guid>https://russellijaya.com/post/content/</guid>
+      <description></description>
+    </item>
+    
+    
+    
+    <item>
+      <title>On testing markdown</title>
+      <link>https://russellijaya.com/post/test/</link>
+      <pubDate>Sat, 20 Nov 2021 16:32:04 -0500</pubDate>
+      
+      <guid>https://russellijaya.com/post/test/</guid>
+      <description>&lt;p&gt;paragraph text&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
     
   </channel>
 </rss>
